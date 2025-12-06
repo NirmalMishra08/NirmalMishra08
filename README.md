@@ -194,5 +194,4 @@ func main() {
 <br/>
 🚀 Let's build something amazing together!
 <br/>
-<small>Note: This README updates dynamically with my GitHub stats! ✨</small>
 </div>
