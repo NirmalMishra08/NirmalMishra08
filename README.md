@@ -1,69 +1,135 @@
-# Hi there 👋 I'm Nirmal Mishra
+👋 Hello! I'm Nirmal Mishra
+Full Stack Developer | System Design Enthusiast | High-Performance Applications Specialist
+📍 Darbhanga, Bihar, India • 🎯 Open to Opportunities
 
-🚀 **Full Stack Developer** | 💡 **Problem Solver** | 🌏 Darbhanga, Bihar, India  
+Passionate about building scalable distributed systems and optimizing application performance. I enjoy architecting robust solutions that handle millions of requests while maintaining elegant code structure.
 
-I love building **scalable**, **high-performance** applications and solving challenging problems. From sleek frontends to rock-solid backends, I do it all!
+🛠️ Technical Arsenal
+Frontend
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
----
+Backend
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 
-## 🔧 Technologies & Tools
+Databases & Caching
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)
+DevOps & Cloud
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
----
+Real-time & Protocols
+https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white
+https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white
+https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 
-## 📘 Projects
+🚀 Featured Projects
+📚 BookNook | Repository
+E-commerce Platform for Books & Courses
 
-- **BookNook**: [Repository Link](https://github.com/NirmalMishra08/bookNook)  
-  A dynamic online bookselling platform offering a seamless experience for users to browse, buy, and explore both free and premium books and courses.
+Built with React, Node.js, MongoDB
 
-- **Mingle**: [Repository Link](https://github.com/NirmalMishra08/Mingle)  
-  A real-time social media application designed to connect people and facilitate interactions.
+Features: User authentication, shopping cart, payment integration
 
-- **ClassMate**: [Repository Link](https://github.com/NirmalMishra08/classMate)  
-  An application that helps students track their attendance, visualize trends, and stay on top of their classes.
+Scalable architecture with Redis caching layer
 
-- **Chat App Example**: [Repository Link](https://github.com/NirmalMishra08/chat-app-example)  
-  A WebSocket-powered chat application enabling real-time communication.
+Tech Stack: MERN Stack, Redis, Stripe API
 
----
+💬 Mingle | Repository
+Real-time Social Media Platform
 
-## 📊 GitHub Stats & Activity
+Real-time chat using Socket.IO
 
-![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirmalMishra08&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NirmalMishra08&theme=radical)
+Image upload with Cloudinary integration
 
----
+Responsive design with Tailwind CSS
 
-## 📈 GitHub Activity Graph
+Tech Stack: React, Express, Socket.IO, MongoDB
 
-[![Nirmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalMishra08&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+🎓 ClassMate | Repository
+Student Attendance & Management System
 
----
+Data visualization with Chart.js
 
-## 🌐 Connect with Me
+Real-time notifications
 
-- **Instagram**: [nirmal_mishra24](https://www.instagram.com/nirmal_mishra24)  
-- **X (Twitter)**: [@MishraNirmal2](https://x.com/MishraNirmal2)  
-- **LinkedIn**: [Nirmal Mishra](https://www.linkedin.com/in/nirmalmishra08/)  
+Mobile-responsive dashboard
 
----
+Tech Stack: React, Node.js, PostgreSQL
 
-💬 *“Building tools that simplify life and spark innovation.”*
+💭 Chat App Example | Repository
+WebSocket-powered Real-time Chat Application
+
+Bi-directional real-time communication
+
+Room-based chat architecture
+
+Message persistence
+
+Tech Stack: Node.js, Socket.IO, React
+
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=NirmalMishra08&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true
+https://github-readme-streak-stats.herokuapp.com/?user=NirmalMishra08&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&theme=radical&hide_border=true&layout=compact&langs_count=8
+
+</div>
+🔥 Coding Activity
+https://github-readme-activity-graph.vercel.app/graph?username=NirmalMishra08&theme=react-dark&height=300&hide_border=true&area=true&custom_title=My%2520Contribution%2520Graph
+
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=NirmalMishra08&theme=radical&row=2&column=4&no-bg=true&no-frame=true
+
+📫 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/nirmalmishra08/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/MishraNirmal2"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://www.instagram.com/nirmal_mishra24/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/u/NirmalMishra/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
+📝 Recent Blog Posts (You can add these later)
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+💡 What I'm Currently Exploring
+🔍 Distributed Systems Architecture
+
+⚡ High-Concurrency Applications in Go
+
+🐳 Microservices with Docker & Kubernetes
+
+📡 Real-time Systems with WebSockets
+
+🔒 System Design & Scalability Patterns
+
+🎯 Current Focus
+javascript
+const currentFocus = {
+  languages: ["Go", "TypeScript", "Python"],
+  frameworks: ["Gin", "Next.js", "FastAPI"],
+  databases: ["PostgreSQL", "Redis", "MongoDB"],
+  cloud: ["AWS", "Docker", "Kubernetes"],
+  learning: ["System Design", "Microservices", "DevOps"]
+};
+<div align="center">
+https://komarev.com/ghpvc/?username=NirmalMishra08&color=blueviolet&style=flat-square
+
+"Code is like humor. When you have to explain it, it's bad." – Cory House
+
+Let's build something amazing together!
+
+</div>
+Quick Stats
+🏆 Projects Completed: 15+
+
+⭐ GitHub Stars: 50+
+
+🔄 Open Source Contributions: 10+
+
+📚 Years of Experience: 3+
+
+🎯 Specialization: Full Stack Development & System Design
