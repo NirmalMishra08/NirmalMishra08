@@ -45,11 +45,11 @@ const nirmal = {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NirmalMishra08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalMishra08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NirmalMishra08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalMishra08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalMishra08&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NirmalMishra08&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Contribution Stats" />
 
 </div>
 
@@ -58,6 +58,31 @@ const nirmal = {
 ### 🏆 GitHub Trophies
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=NirmalMishra08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+### 📈 Detailed Activity Metrics
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NirmalMishra08&theme=tokyonight" alt="Profile Summary" />
+
+</div>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NirmalMishra08&theme=tokyonight" alt="Repos per Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NirmalMishra08&theme=tokyonight" alt="Most Commit Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NirmalMishra08&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+
+</div>
+
+<div align="center">
+
+### 📊 Contribution Activity Graph
+
+[![Nirmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalMishra08&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&custom_title=Contribution%20Activity)](https://github.com/NirmalMishra08)
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
@@ -177,16 +202,6 @@ const nirmal = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Nirmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalMishra08&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/NirmalMishra08)
-
-</div>
-
----
-
 ## 🎯 What I'm Currently Exploring
 
 <div align="center">
@@ -203,18 +218,17 @@ const nirmal = {
 
 ---
 
-## 🏆 Achievements & Stats
+## 🏆 Achievements & Live Stats
 
 <div align="center">
 
-| 🎯 Metric | 📊 Value |
-|-----------|----------|
-| **Projects Completed** | 15+ |
-| **GitHub Stars Earned** | 50+ |
+| 🎯 Metric | 📊 Live Value |
+|-----------|---------------|
+| ![Total Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NirmalMishra08&label=Total%20Repos&query=$.public_repos&color=58A6FF&style=flat-square) | ![Total Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/NirmalMishra08&label=Total%20Stars&query=$.stars&color=FFD700&style=flat-square) |
+| ![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NirmalMishra08&label=Followers&query=$.followers&color=FF6B6B&style=flat-square) | ![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NirmalMishra08&label=Following&query=$.following&color=4CAF50&style=flat-square) |
 | **Years of Experience** | 3+ |
 | **Technologies Mastered** | 20+ |
-| **Open Source Contributions** | 10+ |
-| **LeetCode Problems Solved** | 100+ |
+| **LeetCode Problems Solved** | ![LeetCode](https://img.shields.io/badge/LeetCode-100+-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
 
 </div>
 
@@ -242,7 +256,7 @@ const nirmal = {
 
 ### 💭 Quote of the Day
 
-*"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🚀 Let's Build Something Amazing Together!
 
