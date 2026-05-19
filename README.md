@@ -2,13 +2,13 @@
 
 # Nirmal Mishra
 
-### Full Stack Developer | System Design Enthusiast | High-Performance Applications Specialist
+### Full Stack Developer | System Design Enthusiast | DevOps & AI Specialist | High-Performance Applications Builder
 
 Darbhanga, Bihar, India | Open to Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmalmishra08/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MishraNirmal2)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NirmalMishra/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sirius1Black/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NirmalMishra08&color=58A6FF&style=flat-square)
 
@@ -22,20 +22,36 @@ Darbhanga, Bihar, India | Open to Opportunities
 const nirmal = {
     pronouns: "He / Him",
     location: "Darbhanga, Bihar, India",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer | DevOps Enthusiast | AI/ML Explorer",
+    email: "nrmlmishrawork@gmail.com",
     passions: [
         "Building Scalable Distributed Systems",
         "Crafting High-Performance Applications",
         "System Design & Architecture",
-        "Real-time Communication Systems"
+        "Real-time Communication Systems",
+        "DevOps & Infrastructure Automation",
+        "Agentic AI & LLM Applications"
     ],
     currentFocus: {
-        learning: ["Microservices", "Kubernetes", "System Design"],
-        building: ["Distributed Systems", "Real-time Apps"],
-        exploring: ["Go", "DevOps", "Cloud Architecture"]
-    }
+        learning: ["Microservices", "Kubernetes", "System Design", "LangGraph", "Agentic AI"],
+        building: ["Distributed Systems", "Real-time Apps", "CI/CD Pipelines", "AI-powered Applications"],
+        exploring: ["Go", "DevOps", "Cloud Architecture", "LangChain", "Chroma DB"]
+    },
+    achievements: [
+        "🏆 Hackathon Winner - Bit Mesra 25",
+        "🥈 2nd Runner-up - Hactopia (IIIT Bhagalpur TNP Cell)"
+    ]
 };
 ```
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Event | Year |
+|-------------|-------|------|
+| 🏆 Hackathon Winner | Bit Mesra 25 | 2025 |
+| 🥈 2nd Runner-up | Hactopia (IIIT Bhagalpur) | 2025 |
 
 ---
 
@@ -83,10 +99,10 @@ const nirmal = {
 
 | Metric | Value |
 |--------|-------|
-| Public Repositories | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NirmalMishra08&label=Repos&query=$.public_repos&color=58A6FF&style=flat-square) |
-| GitHub Followers | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NirmalMishra08&label=Followers&query=$.followers&color=FF6B6B&style=flat-square) |
+| Public Repositories | 20+ |
+| GitHub Followers | Growing 📈 |
 | Years of Experience | 3+ |
-| Technologies Mastered | 20+ |
+| Technologies Mastered | 30+ |
 | LeetCode Problems | 100+ |
 
 </div>
@@ -117,18 +133,33 @@ const nirmal = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Cloud
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=new-relic&logoColor=white)
+
 ### Real-time & APIs
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Server--Sent_Events](https://img.shields.io/badge/SSE-FF6B6B?style=for-the-badge&logo=server&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1F70C1?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1F70C1?style=for-the-badge&logo=graphql&logoColor=white)
+![Chroma DB](https://img.shields.io/badge/Chroma_DB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -139,10 +170,13 @@ const nirmal = {
 | Area | Status | Focus |
 |------|--------|-------|
 | Distributed Systems | Active | Building scalable microservices architectures |
+| DevOps & Infrastructure | Active | Prometheus, Grafana, Terraform automation |
 | Go Development | Learning | High-concurrency applications with Gin framework |
 | Kubernetes & Docker | Practicing | Container orchestration and deployment |
 | System Design | Mastering | Designing systems for millions of requests |
-| Real-time Systems | Building | WebSocket implementations |
+| Real-time Systems | Building | WebSocket & SSE implementations |
+| Agentic AI | Learning | LangGraph, LangChain, Chroma DB integrations |
+| CI/CD Pipelines | Building | GitHub Actions, DigitalOcean deployment |
 
 ---
 
@@ -154,9 +188,9 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmalmishra08/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MishraNirmal2)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NirmalMishra/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sirius1Black/)
 
-nirmalmishra.dev@gmail.com
+📧 **Email:** nrmlmishrawork@gmail.com
 
 </div>
 
@@ -164,6 +198,6 @@ nirmalmishra.dev@gmail.com
 
 <div align="center">
 
-Thanks for visiting. Happy coding!
+Thanks for visiting. Happy coding! 🚀
 
 </div>
