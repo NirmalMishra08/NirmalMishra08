@@ -2,7 +2,7 @@
 
 # Nirmal Mishra
 
-### Full Stack Developer | System Design Enthusiast | DevOps & AI Specialist
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;System+Design+Enthusiast;DevOps+%26+AI+Specialist" alt="Typing SVG" /></a>
 
 Darbhanga, Bihar, India | Open to Opportunities
 
@@ -12,7 +12,7 @@ Darbhanga, Bihar, India | Open to Opportunities
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=NirmalMishra08&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=NirmalMishra08&color=58A6FF&style=flat-square)
 
 </div>
 
@@ -52,9 +52,9 @@ const nirmal = {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=NirmalMishra08&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NirmalMishra08&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=NirmalMishra08&theme=merko&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NirmalMishra08&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&theme=merko&hide_border=false&layout=compact)
 
 </div>
 
