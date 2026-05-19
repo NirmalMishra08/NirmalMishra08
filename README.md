@@ -59,10 +59,10 @@ const nirmal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NirmalMishra08&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalMishra08&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NirmalMishra08&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalMishra08&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalMishra08&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NirmalMishra08&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 
 </div>
@@ -71,7 +71,7 @@ const nirmal = {
 
 ### Contribution Activity
 
-[![Nirmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalMishra08&theme=github&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/NirmalMishra08)
+[![Nirmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NirmalMishra08&theme=github&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)]
 
 </div>
 
@@ -93,19 +93,68 @@ const nirmal = {
 
 ---
 
-## Key Statistics
+## 📊 Key Statistics (Live from Repositories)
 
 <div align="center">
 
 | Metric | Value |
 |--------|-------|
-| Public Repositories | 20+ |
-| GitHub Followers | Growing 📈 |
-| Years of Experience | 3+ |
-| Technologies Mastered | 30+ |
-| LeetCode Problems | 100+ |
+| **Public Repositories** | 55+ projects across full-stack, DevOps, Go backend, and data engineering |
+| **Primary Tech Stack** | Go, TypeScript, JavaScript, Python, Dockerfile, HCL (Terraform) |
+| **Years of Experience** | 3+ years |
+| **Backend Specialization** | Go microservices, Kafka streaming, Redis caching, PostgreSQL databases |
+| **DevOps & Infrastructure** | Kubernetes, Docker, Terraform, ArgoCD, Jenkins, Prometheus-Grafana, SonarQube |
 
 </div>
+
+---
+
+## 🎯 Key Projects & Problem Domains Solved
+
+### **DevOps & Automation**
+- **[godeploy](https://github.com/NirmalMishra08/godeploy)** - CLI-based DevOps automation tool for one-command Docker deployments on VPS
+- **[docker-jenkins-revision](https://github.com/NirmalMishra08/docker-jenkins-revision)** - CI/CD pipeline automation with Docker & Jenkins
+- **[k8s-resource-optimiser](https://github.com/NirmalMishra08/k8s-resource-optimiser)** - Kubernetes resource optimization tools
+- **[Concurrency-redis-go](https://github.com/NirmalMishra08/Concurrency-redis-go)** - Advanced Go concurrency patterns with Redis
+
+### **Backend & Microservices**
+- **[go-zero](https://github.com/NirmalMishra08/go-zero)** - Cloud-native Go microservices framework with RPC code generation
+- **[authentication-crypt](https://github.com/NirmalMishra08/authentication-crypt)** - Secure authentication backend (bcrypt, brute-force protection, timing attack mitigation)
+- **[Stripe-with-go](https://github.com/NirmalMishra08/Stripe-with-go)** - Payment integration backend with Go
+- **[kafka-go](https://github.com/NirmalMishra08/kafka-go)** - Kafka integration with Golang for real-time event streaming
+
+### **Real-time Data Engineering**
+- **[PipelineHQ](https://github.com/NirmalMishra08/PipelineHQ)** - Real-time data pipeline observability platform (Kafka, PostgreSQL, anomaly detection, schema drift tracking)
+
+### **Full-Stack Applications**
+- **[classMate](https://github.com/NirmalMishra08/classMate)** - Attendance tracking system with trend visualization
+- **[LMS](https://github.com/NirmalMishra08/LMS)** - Learning management system with role-based access
+- **[full-stack-task-management-app](https://github.com/NirmalMishra08/full-stack-task-management-app)** - Complete CRUD application
+- **[Paytm-Clone](https://github.com/NirmalMishra08/Paytm-Clone)** - Payment application clone with real-world features
+
+### **AI & Automation**
+- **[omniplex](https://github.com/NirmalMishra08/omniplex)** - Open-source Perplexity alternative
+- **[AI-Assisted-Incident-Analysis](https://github.com/NirmalMishra08/AI-Assisted-Incident-Analysis)** - AI-powered incident analysis tool
+- **[notion-with-ai](https://github.com/NirmalMishra08/notion-with-ai)** - AI-enhanced productivity app
+
+### **Infrastructure as Code**
+- **[terraform-for-devops](https://github.com/NirmalMishra08/terraform-for-devops)** - Terraform infrastructure automation patterns
+- **[argocd](https://github.com/NirmalMishra08/argocd)** - GitOps deployment with ArgoCD manifests
+- **[configmaps-secrets](https://github.com/NirmalMishra08/configmaps-secrets)** - Kubernetes configuration management
+
+---
+
+## 🚀 Technical Depth
+
+**Backend Excellence**: Mastered Go concurrency, PostgreSQL optimization, Redis caching patterns
+
+**DevOps Proficiency**: Kubernetes orchestration, Docker containerization, Terraform IaC, ArgoCD GitOps
+
+**Security-First Coding**: Authentication systems, rate limiting, API security, brute-force protection
+
+**Data Engineering**: Kafka event streaming, real-time anomaly detection, schema drift tracking, data pipeline observability
+
+**Full-Stack Capabilities**: TypeScript/Node.js frontends, Go backends, cloud deployments, system design
 
 ---
 
@@ -161,6 +210,10 @@ const nirmal = {
 ![Chroma DB](https://img.shields.io/badge/Chroma_DB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logoColor=white)
 
+### Data Engineering & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Stream Processing](https://img.shields.io/badge/Stream_Processing-FF6B6B?style=for-the-badge&logoColor=white)
+
 </div>
 
 ---
@@ -171,12 +224,13 @@ const nirmal = {
 |------|--------|-------|
 | Distributed Systems | Active | Building scalable microservices architectures |
 | DevOps & Infrastructure | Active | Prometheus, Grafana, Terraform automation |
-| Go Development | Learning | High-concurrency applications with Gin framework |
-| Kubernetes & Docker | Practicing | Container orchestration and deployment |
+| Go Development | Learning | High-concurrency applications with production patterns |
+| Kubernetes & Docker | Practicing | Container orchestration and deployment optimization |
 | System Design | Mastering | Designing systems for millions of requests |
-| Real-time Systems | Building | WebSocket & SSE implementations |
+| Real-time Systems | Building | WebSocket & SSE implementations, event streaming |
 | Agentic AI | Learning | LangGraph, LangChain, Chroma DB integrations |
 | CI/CD Pipelines | Building | GitHub Actions, DigitalOcean deployment |
+| Data Pipeline Observability | Exploring | Real-time monitoring, anomaly detection, schema tracking |
 
 ---
 
