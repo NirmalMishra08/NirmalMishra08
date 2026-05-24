@@ -16,6 +16,8 @@ Darbhanga, Bihar, India | Open to Opportunities
 
 </div>
 
+![Header Image](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)
+
 ---
 
 # About Me
